@@ -253,12 +253,12 @@ if __name__ == '__main__':
 #     parser.add_argument('--weight_decay', type=float, default=0.0005)
 #     parser.add_argument('--milestones', nargs='+', type=int, default=[40, 70],
 #                         help='milestones for the learning rate decay')
-#     parser.add_argument('--output_path', type=str, default='/data/yyj/MEAG_2/output_bupt/',
+#     parser.add_argument('--output_path', type=str, default='/data/yyj/output_bupt/',
 #                         help='path to save related informations')
 #     parser.add_argument('--max_save_model_num', type=int, default=1, help='0 for max num is infinit')
 #     parser.add_argument('--resume_train_epoch', type=int, default=-1, help='-1 for no resuming')
 #     parser.add_argument('--auto_resume_training_from_lastest_step', type=ast.literal_eval, default=False)
-#     parser.add_argument('--total_train_epoch', type=int, default=300)
+#     parser.add_argument('--total_train_epoch', type=int, default=200)
 #     parser.add_argument('--eval_epoch', type=int, default=2)
 #     parser.add_argument('--vcm_test_mode', default='t2v', help='dataset name: regdb or sysu,vcm]')
 #     parser.add_argument('--resume_test_model', type=int, default=119, help='-1 for no resuming')
