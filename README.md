@@ -28,3 +28,5 @@ checkpoints/
 └── best_shape.pth
 ```
 
+## Acknowledgements
+Our code uses `MaskBranch_vits14.pt` and `dinov2_vits14_pretrain.pth` from BigGait. We sincerely thank the authors for their excellent work. Please refer to their official GitHub repository: [OpenGait](https://github.com/ShiqiYu/OpenGait).
