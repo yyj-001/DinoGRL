@@ -7,11 +7,17 @@ Official PyTorch implementation of "DINOv2 Driven Gait Representation Learning f
 
 Please download the pretrained checkpoints from the following links and place them under `checkpoints/`.
 
-| Dataset   | Checkpoint  | File              | Download                                                                                    |
-| --------- | ----------- | ----------------- | ------------------------------------------------------------------------------------------- |
-| HITSZ-VCM | DinoGRL-VCM | `best_model.pth`  | [Download](https://github.com/yyj-001/DinoGRL/releases/download/checkpoint/best_model.pth)  |
-| HITSZ-VCM | DinoGRL-VCM | `best_model2.pth` | [Download](https://github.com/yyj-001/DinoGRL/releases/download/checkpoint/best_model2.pth) |
-| HITSZ-VCM | DinoGRL-VCM | `best_shape.pth`  | [Download](https://github.com/yyj-001/DinoGRL/releases/download/checkpoint/best_shape.pth)  |
+| Dataset   | File              | Download                                                                                    |
+| --------- | ----------------- | ------------------------------------------------------------------------------------------- |
+| HITSZ-VCM | `best_model.pth`  | [Download](https://github.com/yyj-001/DinoGRL/releases/download/HITSZ-VCM/best_model.pth)  |
+| HITSZ-VCM | `best_model2.pth` | [Download](https://github.com/yyj-001/DinoGRL/releases/download/HITSZ-VCM/best_model2.pth) |
+| HITSZ-VCM | `best_shape.pth`  | [Download](https://github.com/yyj-001/DinoGRL/releases/download/HITSZ-VCM/best_shape.pth)  |
+
+| Dataset     | File              | Download                                                                                    |
+| ----------- | ----------------- | ------------------------------------------------------------------------------------------- |
+| BUPT-Campus | `best_model.pth`  | [Download](https://github.com/yyj-001/DinoGRL/releases/download/BUPT/best_model.pth)  |
+| BUPT-Campus | `best_model2.pth` | [Download](https://github.com/yyj-001/DinoGRL/releases/download/BUPT/best_model2.pth) |
+| BUPT-Campus | `best_shape.pth`  | [Download](https://github.com/yyj-001/DinoGRL/releases/download/BUPT/best_shape.pth)  |
 
 After downloading, please organize the checkpoints as follows:
 
